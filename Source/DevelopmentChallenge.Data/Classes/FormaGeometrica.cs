@@ -1,3 +1,0 @@
-namespace DevelopmentChallenge.Data.Classes
-{
-}

@@ -47,8 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\FormaGeometrica.cs" />
-    <Compile Include="Classes\Interfaces\IFormaGeometrica.cs" />
+<Compile Include="Classes\Interfaces\IFormaGeometrica.cs" />
     <Compile Include="Classes\Interfaces\IIdioma.cs" />
     <Compile Include="Classes\Formas\Cuadrado.cs" />
     <Compile Include="Classes\Formas\Circulo.cs" />
