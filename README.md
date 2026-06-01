@@ -14,13 +14,9 @@ La solución separa esas responsabilidades:
 - `Idiomas/` — una clase por idioma (`Castellano`, `Ingles`, `Italiano`)
 - `ReporteFormas` — genera el reporte sin conocer formas ni idiomas concretos
 
-Agregar una forma nueva: crear una clase que implemente `IFormaGeometrica`. No se toca nada más.  
-Agregar un idioma nuevo: crear una clase que implemente `IIdioma`. No se toca nada más.
+Agregar una forma nueva: crear una clase que implemente `IFormaGeometrica`.  
+Agregar un idioma nuevo: crear una clase que implemente `IIdioma`.
 
 ## Tests
 
 11 tests con NUnit. Para correrlos:
-
-```
-packages/NUnit.ConsoleRunner.3.11.1/tools/nunit3-console.exe DevelopmentChallenge.Data.Tests/bin/Debug/DevelopmentChallenge.Data.Tests.dll
-```
