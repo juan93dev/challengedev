@@ -19,4 +19,4 @@ Agregar un idioma nuevo: crear una clase que implemente `IIdioma`.
 
 ## Tests
 
-11 tests con NUnit. Para correrlos:
+11 tests con NUnit. 
